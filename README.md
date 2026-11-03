@@ -17,3 +17,6 @@
 
 ## Tautan Expo Snack
 https://snack.expo.dev/@gladys_expo/my-expo-card
+
+## Link Google Docs Teori TP3
+https://docs.google.com/document/d/1ivZAlWeH7IxSNzaNFSyL1p1sX-m9Y0vCKCXDrtl8vxc/edit?usp=sharing
