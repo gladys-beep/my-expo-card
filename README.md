@@ -1,6 +1,6 @@
 # Tugas My Expo Card
 - **Nama:** Gladys Huang
-- **NIM:** 253303620001
+- **NIM :** 253303620001
   
 <img width="738" height="1600" alt="my expo card" src="https://github.com/user-attachments/assets/faec9f43-99f9-44a9-98d7-0e3dbe5dd0c0" />
 
